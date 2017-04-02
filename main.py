@@ -14,5 +14,3 @@ titlefinder('https://www.techcrunch.com/')
 print("Page2")
 titlefinder('https://techcrunch.com/page/2/')
 
-
-#ganesha
